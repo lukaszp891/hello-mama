@@ -1,2 +1,3 @@
 # hello-mama
 very first repository on github, here we go
+It's going to be a looooooooong way...
